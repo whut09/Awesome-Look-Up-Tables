@@ -1,0 +1,297 @@
+[
+  {
+    "paper_id": "cvpr2026:shiftlut",
+    "title": "ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration",
+    "year": 2026,
+    "publication": "CVPR",
+    "category": "Image restoration",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_ShiftLUT_Spatial_Shift_Enhanced_Look-Up_Tables_for_Efficient_Image_Restoration_CVPR_2026_paper.html",
+    "official_code_url": "https://github.com/Sailor-t/ShiftLUT",
+    "summary": "Uses spatial shifts to expand the receptive field of LUT-based image restoration."
+  },
+  {
+    "paper_id": "cvpr2026:memory-matters",
+    "title": "Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table",
+    "year": 2026,
+    "publication": "CVPR",
+    "category": "Temporal action localization",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Memory_Matters_Boosting_Training-Free_Zero-Shot_Temporal_Action_Localization_with_a_CVPR_2026_paper.html",
+    "summary": "Introduces a learnable lookup-table memory for training-free zero-shot temporal action localization."
+  },
+  {
+    "paper_id": "cvpr2025:dnlut",
+    "title": "DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables",
+    "year": 2025,
+    "publication": "CVPR",
+    "category": "Image denoising",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Yang_DnLUT_Ultra-Efficient_Color_Image_Denoising_via_Channel-Aware_Lookup_Tables_CVPR_2025_paper.html",
+    "official_code_url": "https://github.com/Stephen0808/DnLUT",
+    "summary": "Applies channel-aware lookup tables to efficient color image denoising."
+  },
+  {
+    "paper_id": "cvpr2025:autolut",
+    "title": "AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning",
+    "year": 2025,
+    "publication": "CVPR",
+    "category": "Image super-resolution",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Xu_AutoLUT_LUT-Based_Image_Super-Resolution_with_Automatic_Sampling_and_Adaptive_Residual_CVPR_2025_paper.html",
+    "official_code_url": "https://github.com/SuperKenVery/AutoLUT",
+    "summary": "Combines automatic LUT sampling with adaptive residual learning for image super-resolution."
+  },
+  {
+    "paper_id": "cvpr2024:lut-compression",
+    "title": "Look-Up Table Compression for Efficient Image Restoration",
+    "year": 2024,
+    "publication": "CVPR",
+    "category": "Image restoration",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Li_Look-Up_Table_Compression_for_Efficient_Image_Restoration_CVPR_2024_paper.html",
+    "official_code_url": "https://github.com/leenas233/DFC",
+    "summary": "Compresses restoration lookup tables to reduce storage while preserving reconstruction quality."
+  },
+  {
+    "paper_id": "cvpr2022:adaint",
+    "title": "AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-Time Image Enhancement",
+    "year": 2022,
+    "publication": "CVPR",
+    "category": "Image enhancement",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/html/Yang_AdaInt_Learning_Adaptive_Intervals_for_3D_Lookup_Tables_on_Real-Time_CVPR_2022_paper.html",
+    "official_code_url": "https://github.com/ImCharlesY/AdaInt",
+    "summary": "Learns non-uniform sampling intervals for image-adaptive 3D LUT enhancement."
+  },
+  {
+    "paper_id": "cvpr2022:learnable-lut-quantization",
+    "title": "Learnable Lookup Table for Neural Network Quantization",
+    "year": 2022,
+    "publication": "CVPR",
+    "category": "Model quantization",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Learnable_Lookup_Table_for_Neural_Network_Quantization_CVPR_2022_paper.html",
+    "summary": "Learns lookup-table mappings for neural-network quantization."
+  },
+  {
+    "paper_id": "cvpr2021:sr-lut",
+    "title": "Practical Single-Image Super-Resolution Using Look-Up Table",
+    "year": 2021,
+    "publication": "CVPR",
+    "category": "Image super-resolution",
+    "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/html/Jo_Practical_Single-Image_Super-Resolution_Using_Look-Up_Table_CVPR_2021_paper.html",
+    "official_code_url": "https://github.com/yhjo09/SR-LUT",
+    "summary": "Transfers a trained super-resolution network into a practical lookup-table representation."
+  },
+  {
+    "paper_id": "iccv2025:sa-lut",
+    "title": "SA-LUT: Spatial Adaptive 4D Look-Up Table for Photorealistic Style Transfer",
+    "year": 2025,
+    "publication": "ICCV",
+    "category": "Style transfer",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Gong_SA-LUT_Spatial_Adaptive_4D_Look-Up_Table_for_Photorealistic_Style_Transfer_ICCV_2025_paper.html",
+    "summary": "Uses a spatially adaptive 4D lookup table for photorealistic style transfer."
+  },
+  {
+    "paper_id": "iccv2025:spatial-lut-decomposition",
+    "title": "Lightweight and Fast Real-Time Image Enhancement via Decomposition of the Spatial-Aware Lookup Tables",
+    "year": 2025,
+    "publication": "ICCV",
+    "category": "Image enhancement",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Lightweight_and_Fast_Real-time_Image_Enhancement_via_Decomposition_of_the_ICCV_2025_paper.html",
+    "summary": "Decomposes spatial-aware lookup tables for lightweight real-time image enhancement."
+  },
+  {
+    "paper_id": "iccv2025:im-lut",
+    "title": "IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution",
+    "year": 2025,
+    "publication": "ICCV",
+    "category": "Image super-resolution",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Park_IM-LUT_Interpolation_Mixing_Look-Up_Tables_for_Image_Super-Resolution_ICCV_2025_paper.html",
+    "summary": "Mixes interpolation strategies in LUT-based image super-resolution."
+  },
+  {
+    "paper_id": "iccv2025:video-color-grading",
+    "title": "Video Color Grading via Look-Up Table Generation",
+    "year": 2025,
+    "publication": "ICCV",
+    "category": "Video color grading",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Shin_Video_Color_Grading_via_Look-Up_Table_Generation_ICCV_2025_paper.html",
+    "summary": "Generates lookup tables for temporally coherent video color grading."
+  },
+  {
+    "paper_id": "iccv2025:lut-fuse",
+    "title": "LUT-Fuse: Towards Extremely Fast Infrared and Visible Image Fusion via Distillation to Learnable Look-Up Tables",
+    "year": 2025,
+    "publication": "ICCV",
+    "category": "Image fusion",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Yi_LUT-Fuse_Towards_Extremely_Fast_Infrared_and_Visible_Image_Fusion_via_ICCV_2025_paper.html",
+    "official_code_url": "https://github.com/zyb5/LUT-Fuse",
+    "summary": "Distills infrared-visible fusion behavior into learnable lookup tables for fast inference."
+  },
+  {
+    "paper_id": "iccv2023:meflut",
+    "title": "MEFLUT: Unsupervised 1D Lookup Tables for Multi-Exposure Image Fusion",
+    "year": 2023,
+    "publication": "ICCV",
+    "category": "Image fusion",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_MEFLUT_Unsupervised_1D_Lookup_Tables_for_Multi-exposure_Image_Fusion_ICCV_2023_paper.html",
+    "official_code_url": "https://github.com/Hedlen/MEFLUT",
+    "summary": "Learns compact one-dimensional lookup tables for unsupervised multi-exposure fusion."
+  },
+  {
+    "paper_id": "iccv2023:rc-lut",
+    "title": "Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution",
+    "year": 2023,
+    "publication": "ICCV",
+    "category": "Image super-resolution",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Reconstructed_Convolution_Module_Based_Look-Up_Tables_for_Efficient_Image_Super-Resolution_ICCV_2023_paper.html",
+    "summary": "Builds efficient super-resolution LUTs from reconstructed convolution modules."
+  },
+  {
+    "paper_id": "iccv2021:spatial-aware-3dlut",
+    "title": "Real-Time Image Enhancer via Learnable Spatial-Aware 3D Lookup Tables",
+    "year": 2021,
+    "publication": "ICCV",
+    "category": "Image enhancement",
+    "paper_url": "https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Real-Time_Image_Enhancer_via_Learnable_Spatial-Aware_3D_Lookup_Tables_ICCV_2021_paper.html",
+    "summary": "Adds spatial awareness to learnable 3D lookup tables for real-time enhancement."
+  },
+  {
+    "paper_id": "eccv2024:bilateral-grid-lut",
+    "title": "Image-Adaptive 3D Lookup Tables for Real-Time Image Enhancement with Bilateral Grids",
+    "year": 2024,
+    "publication": "ECCV",
+    "category": "Image enhancement",
+    "paper_url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6517_ECCV_2024_paper.php",
+    "summary": "Combines image-adaptive 3D lookup tables with bilateral grids for real-time enhancement."
+  },
+  {
+    "paper_id": "eccv2024:icelut",
+    "title": "Taming Lookup Tables for Efficient Image Retouching",
+    "year": 2024,
+    "publication": "ECCV",
+    "category": "Image retouching",
+    "paper_url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7541_ECCV_2024_paper.php",
+    "official_code_url": "https://github.com/Stephen0808/ICELUT",
+    "summary": "Improves the representation and optimization of lookup tables for efficient image retouching."
+  },
+  {
+    "paper_id": "eccv2024:st-lut",
+    "title": "Online Video Quality Enhancement with Spatial-Temporal Look-Up Tables",
+    "year": 2024,
+    "publication": "ECCV",
+    "category": "Video enhancement",
+    "paper_url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9175_ECCV_2024_paper.php",
+    "summary": "Uses spatial-temporal lookup tables for online video quality enhancement."
+  },
+  {
+    "paper_id": "eccv2022:splut",
+    "title": "Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution",
+    "year": 2022,
+    "publication": "ECCV",
+    "category": "Image super-resolution",
+    "paper_url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6698_ECCV_2022_paper.php",
+    "official_code_url": "https://github.com/zhjy2016/SPLUT",
+    "summary": "Composes series-parallel lookup tables to increase efficient super-resolution capacity."
+  },
+  {
+    "paper_id": "eccv2022:seplut",
+    "title": "SepLUT: Separable Image-Adaptive Lookup Tables for Real-Time Image Enhancement",
+    "year": 2022,
+    "publication": "ECCV",
+    "category": "Image enhancement",
+    "paper_url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1740_ECCV_2022_paper.php",
+    "official_code_url": "https://github.com/ImCharlesY/SepLUT",
+    "summary": "Factorizes image-adaptive lookup transformations for real-time enhancement."
+  },
+  {
+    "paper_id": "eccv2022:mulut",
+    "title": "MuLUT: Cooperating Multiple Look-Up Tables for Efficient Image Super-Resolution",
+    "year": 2022,
+    "publication": "ECCV",
+    "category": "Image super-resolution",
+    "paper_url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1756_ECCV_2022_paper.php",
+    "official_code_url": "https://github.com/ddlee-cn/MuLUT",
+    "summary": "Coordinates multiple lookup tables to improve efficient image super-resolution."
+  },
+  {
+    "paper_id": "neurips2025:pan-lut",
+    "title": "Pan-LUT: Efficient Pan-Sharpening via Learnable Look-Up Tables",
+    "year": 2025,
+    "publication": "NeurIPS",
+    "category": "Pan-sharpening",
+    "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/b7e80990ff6268f8572eab63b7b7da05-Abstract-Conference.html",
+    "summary": "Applies learnable lookup tables to efficient pan-sharpening."
+  },
+  {
+    "paper_id": "neurips2024:tinylut",
+    "title": "TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge",
+    "year": 2024,
+    "publication": "NeurIPS",
+    "category": "Image restoration",
+    "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/9b01c4a7d3fc49875dad3c13848bcd9e-Abstract-Conference.html",
+    "official_code_url": "https://github.com/Jonas-KD/TinyLUT",
+    "summary": "Designs a compact lookup-table restoration model for edge deployment."
+  },
+  {
+    "paper_id": "neurips2023:lut-llf",
+    "title": "Lookup Table Meets Local Laplacian Filter: Pyramid Reconstruction Network for Tone Mapping",
+    "year": 2023,
+    "publication": "NeurIPS",
+    "category": "Tone mapping",
+    "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/b3a08d179347e33414badadf100e4e8d-Abstract-Conference.html",
+    "summary": "Combines lookup tables with local Laplacian filtering in a pyramid tone-mapping network."
+  },
+  {
+    "paper_id": "iclr2024:lut-gemm",
+    "title": "LUT-GEMM: Quantized Matrix Multiplication Based on LUTs for Efficient Inference in Large-Scale Generative Language Models",
+    "year": 2024,
+    "publication": "ICLR",
+    "category": "Efficient LLM inference",
+    "paper_url": "https://openreview.net/forum?id=gLARhFLE0F",
+    "official_code_url": "https://github.com/naver-aics/lut-gemm",
+    "summary": "Accelerates low-bit matrix multiplication with lookup-table-based computation."
+  },
+  {
+    "paper_id": "icml2024:privacy-preserving-embedding-lut",
+    "title": "Privacy-Preserving Embedding via Look-Up Table Evaluation with Fully Homomorphic Encryption",
+    "year": 2024,
+    "publication": "ICML",
+    "category": "Privacy-preserving ML",
+    "paper_url": "https://proceedings.mlr.press/v235/kim24ab.html",
+    "summary": "Evaluates embedding lookup tables under fully homomorphic encryption."
+  },
+  {
+    "paper_id": "ijcv2025:extensible-splut",
+    "title": "Learning Extensible Series-Parallel Lookup Tables for Efficient Image Super-Resolution",
+    "year": 2025,
+    "publication": "IJCV",
+    "category": "Image super-resolution",
+    "paper_url": "https://doi.org/10.1007/s11263-025-02516-1",
+    "summary": "Extends series-parallel lookup-table structures for efficient image super-resolution."
+  },
+  {
+    "paper_id": "tpami2026:deep-lookup-network",
+    "title": "Deep Lookup Network",
+    "year": 2026,
+    "publication": "TPAMI",
+    "category": "Efficient vision inference",
+    "paper_url": "https://doi.org/10.1109/TPAMI.2025.3605660",
+    "summary": "Develops a deep lookup-network paradigm for efficient visual representation and inference."
+  },
+  {
+    "paper_id": "tpami2024:dnn-of-luts",
+    "title": "Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables",
+    "year": 2024,
+    "publication": "TPAMI",
+    "category": "Image restoration",
+    "paper_url": "https://doi.org/10.1109/TPAMI.2024.3401048",
+    "official_code_url": "https://github.com/ddlee-cn/MuLUT",
+    "summary": "Builds deep restoration models from cooperating lookup-table units."
+  },
+  {
+    "paper_id": "tpami2022:image-adaptive-3dlut",
+    "title": "Learning Image-Adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-Time",
+    "year": 2022,
+    "publication": "TPAMI",
+    "category": "Image enhancement",
+    "paper_url": "https://doi.org/10.1109/TPAMI.2020.3026740",
+    "official_code_url": "https://github.com/HuiZeng/Image-Adaptive-3DLUT",
+    "summary": "Predicts and fuses image-adaptive 3D lookup tables for real-time photo enhancement."
+  }
+]
