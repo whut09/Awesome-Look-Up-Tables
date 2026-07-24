@@ -128,7 +128,7 @@ Contributions are welcome. Please:
 2. Prefer the final publication year and an official proceedings or DOI link;
    use arXiv only when no formal version is confirmed.
 3. Add an official code link when one is publicly available.
-4. Keep the list in descending year order and update `data/papers.json`.
+4. Keep the list in descending year order.
 
 ## License
 
