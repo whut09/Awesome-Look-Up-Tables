@@ -2,14 +2,14 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Update](https://img.shields.io/github/last-commit/whut09/Awesome-Look-Up-Tables)
-![Papers](https://img.shields.io/badge/papers-90-blue)
+![Papers](https://img.shields.io/badge/papers-79-blue)
 
-A curated list of research papers whose central method is a look-up table
+A curated list of deep-learning papers whose central method is a look-up table
 (LUT). The collection covers image enhancement, restoration, super-resolution,
-fusion, style transfer, model quantization, efficient inference, and related
-learning tasks. Peer-reviewed papers and arXiv preprints are listed together in
-descending publication-year order; a confirmed formal publication replaces its
-duplicate preprint record.
+fusion, style transfer, model quantization, and efficient neural inference.
+Peer-reviewed papers and arXiv preprints are listed together in descending
+publication-year order; a confirmed formal publication replaces its duplicate
+preprint record.
 
 ## Table of Contents
 
@@ -24,7 +24,6 @@ duplicate preprint record.
 | Year | Pub | Title | Links | Topic |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | AAAI | **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | [[paper](https://doi.org/10.1609/aaai.v40i12.37966)] | Image restoration |
-| 2026 | ACM Computing Surveys | **Lookup Table-Based Computing: A Survey from Software Implementations to Hardware Architectures** | [[paper](https://doi.org/10.1145/3779417)] | Survey |
 | 2026 | CVPR | **Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Memory_Matters_Boosting_Training-Free_Zero-Shot_Temporal_Action_Localization_with_a_CVPR_2026_paper.html)] | Temporal action localization |
 | 2026 | CVPR | **ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_ShiftLUT_Spatial_Shift_Enhanced_Look-Up_Tables_for_Efficient_Image_Restoration_CVPR_2026_paper.html)] [[code](https://github.com/Sailor-t/ShiftLUT)] | Image restoration |
 | 2026 | ECCV | **UHD-MFF: Shattering Barriers in Multi-Focus Ultra-High-Definition Image Fusion via Learnable Lookup Tables** | [[paper](https://arxiv.org/abs/2606.31242)] | Image fusion |
@@ -76,7 +75,6 @@ duplicate preprint record.
 | 2024 | ECCV | **Taming Lookup Tables for Efficient Image Retouching** | [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7541_ECCV_2024_paper.php)] [[code](https://github.com/Stephen0808/ICELUT)] | Image retouching |
 | 2024 | ICASSP | **AttentionLUT: Attention Fusion-Based Canonical Polyadic LUT for Real-Time Image Enhancement** | [[paper](https://doi.org/10.1109/ICASSP48485.2024.10445905)] | Image enhancement |
 | 2024 | ICLR | **LUT-GEMM: Quantized Matrix Multiplication Based on LUTs for Efficient Inference in Large-Scale Generative Language Models** | [[paper](https://openreview.net/forum?id=gLARhFLE0F)] [[code](https://github.com/naver-aics/lut-gemm)] | Efficient LLM inference |
-| 2024 | ICML | **Privacy-Preserving Embedding via Look-Up Table Evaluation with Fully Homomorphic Encryption** | [[paper](https://proceedings.mlr.press/v235/kim24ab.html)] | Privacy-preserving ML |
 | 2024 | IJCAI | **Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution** | [[paper](https://www.ijcai.org/proceedings/2024/95)] | Image super-resolution |
 | 2024 | NeurIPS | **TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9b01c4a7d3fc49875dad3c13848bcd9e-Abstract-Conference.html)] [[code](https://github.com/Jonas-KD/TinyLUT)] | Image restoration |
 | 2024 | TIP | **Online Streaming Video Super-Resolution with Convolutional Look-Up Table** | [[paper](https://doi.org/10.1109/TIP.2024.3374104)] | Video super-resolution |
@@ -90,7 +88,6 @@ duplicate preprint record.
 | 2023 | ICCV | **Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution** | [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Reconstructed_Convolution_Module_Based_Look-Up_Tables_for_Efficient_Image_Super-Resolution_ICCV_2023_paper.html)] | Image super-resolution |
 | 2023 | NeurIPS | **Lookup Table Meets Local Laplacian Filter: Pyramid Reconstruction Network for Tone Mapping** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b3a08d179347e33414badadf100e4e8d-Abstract-Conference.html)] | Tone mapping |
 | 2023 | TIP | **4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement** | [[paper](https://doi.org/10.1109/TIP.2023.3290849)] | Image enhancement |
-| 2023 | TIP | **Perceptually Optimizing Color Look-Up Tables** | [[paper](https://doi.org/10.1109/TIP.2022.3228498)] | Color transformation |
 | 2023 | arXiv | **LUT-GCE: Lookup Table Global Curve Estimation for Fast Low-Light Image Enhancement** | [[paper](https://arxiv.org/abs/2306.07083)] | Low-light enhancement |
 | 2023 | arXiv | **NLUT: Neural-Based 3D Lookup Tables for Video Photorealistic Style Transfer** | [[paper](https://arxiv.org/abs/2303.09170)] | Style transfer |
 | 2022 | ACM MM | **CLUT-Net: Learning Adaptively Compressed Representations of 3DLUTs for Lightweight Image Enhancement** | [[paper](https://doi.org/10.1145/3503161.3547879)] | Image enhancement |
@@ -102,17 +99,9 @@ duplicate preprint record.
 | 2022 | TPAMI | **Learning Image-Adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-Time** | [[paper](https://doi.org/10.1109/TPAMI.2020.3026740)] [[code](https://github.com/HuiZeng/Image-Adaptive-3DLUT)] | Image enhancement |
 | 2021 | CVPR | **Practical Single-Image Super-Resolution Using Look-Up Table** | [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Jo_Practical_Single-Image_Super-Resolution_Using_Look-Up_Table_CVPR_2021_paper.html)] [[code](https://github.com/yhjo09/SR-LUT)] | Image super-resolution |
 | 2021 | ICCV | **Real-Time Image Enhancer via Learnable Spatial-Aware 3D Lookup Tables** | [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Real-Time_Image_Enhancer_via_Learnable_Spatial-Aware_3D_Lookup_Tables_ICCV_2021_paper.html)] | Image enhancement |
-| 2020 | TIP | **Repeated Look-Up Tables** | [[paper](https://doi.org/10.1109/TIP.2019.2949245)] | LUT representation |
 | 2019 | ICME | **JustLookup: One Millisecond Deep Feature Extraction for Point Clouds by Lookup Tables** | [[paper](https://doi.org/10.1109/ICME.2019.00064)] | Point-cloud inference |
 | 2019 | arXiv | **LUTNet: Speeding Up Deep Neural Network Inferencing via Look-Up Tables** | [[paper](https://arxiv.org/abs/1905.10601)] | Efficient neural networks |
 | 2018 | arXiv | **Iteratively Training Look-Up Tables for Network Quantization** | [[paper](https://arxiv.org/abs/1811.05355)] | Model quantization |
-| 2016 | JMLR | **Monotonic Calibrated Interpolated Look-Up Tables** | [[paper](https://jmlr.org/papers/v17/15-243.html)] | Machine learning |
-| 2013 | TIP | **Efficient Halftoning Based on Multiple Look-Up Tables** | [[paper](https://doi.org/10.1109/TIP.2013.2277774)] | Halftoning |
-| 2012 | TIP | **Design and Optimization of Color Lookup Tables on a Simplex Topology** | [[paper](https://doi.org/10.1109/TIP.2011.2177848)] | Color transformation |
-| 2005 | TIP | **Inverse Halftoning Algorithm Using Edge-Based Lookup Table Approach** | [[paper](https://doi.org/10.1109/TIP.2005.854494)] | Inverse halftoning |
-| 2004 | TIP | **Indexing of Multidimensional Lookup Tables in Embedded Systems** | [[paper](https://doi.org/10.1109/TIP.2004.834658)] | LUT implementation |
-| 2002 | TIP | **Tree-Structured Method for LUT Inverse Halftoning and for Image Halftoning** | [[paper](https://doi.org/10.1109/TIP.2002.1014996)] | Halftoning |
-| 2001 | TIP | **Look-Up Table (LUT) Method for Inverse Halftoning** | [[paper](https://doi.org/10.1109/83.951541)] | Inverse halftoning |
 
 <!-- PAPER_TABLES:END -->
 
