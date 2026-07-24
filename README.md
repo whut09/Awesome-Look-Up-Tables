@@ -11,13 +11,9 @@ learning tasks. Peer-reviewed papers and arXiv preprints are listed together in
 descending publication-year order; a confirmed formal publication replaces its
 duplicate preprint record.
 
-See the [search methodology](docs/search-methodology.md) for coverage,
-inclusion rules, and excluded material.
-
 ## Table of Contents
 
 - [Paper List](#paper-list)
-- [Search Methodology](docs/search-methodology.md)
 - [Contributing](#contributing)
 - [License](#license)
 
