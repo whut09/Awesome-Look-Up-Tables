@@ -4,46 +4,55 @@ Last searched: **2026-07-24**.
 
 ## Scope
 
-The main list includes peer-reviewed papers from these venues, in this order:
-CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, IJCV, and TPAMI. The request's “lcml”
-was normalized to **ICML**.
+The list covers peer-reviewed papers and arXiv preprints in computer vision and
+machine learning for which a look-up table is a central model, representation,
+operator, compression target, or inference mechanism. This includes modern
+learned LUTs and classical image-processing LUT methods from TIP.
 
-A paper is included when a look-up table is a central model, representation,
-operator, compression target, or inference mechanism. Papers that merely use a
-table as a minor implementation detail are outside the scope.
+Papers are displayed together in descending publication-year order rather than
+grouped by venue. When a preprint has a confirmed formal publication, only the
+formal venue record is retained. A substantially extended journal version can
+remain alongside its conference predecessor.
 
-The collection is topic-neutral and contains bibliographic and topical
-metadata only.
+The collection contains bibliographic and topical metadata only.
 
 ## Sources Checked
 
-| Venue | Primary source | Coverage checked |
-|:---:|:---|:---|
-| CVPR | [CVF Open Access](https://openaccess.thecvf.com/menu) | Complete available CVF proceedings, 2013–2026, plus the historical DBLP conference backfile from 1988; DOI cross-checks |
-| ICCV | [CVF Open Access](https://openaccess.thecvf.com/menu) | Complete available CVF proceedings, 2013–2025, plus the historical DBLP conference backfile from 1987; DOI cross-checks |
-| ECCV | [ECVA Papers](https://www.ecva.net/papers.php) | Full ECVA paper index; DBLP and Springer DOI cross-checks |
-| NeurIPS | [NeurIPS Proceedings](https://proceedings.neurips.cc/) | Annual proceedings, 1987–2025 |
-| ICLR | [OpenReview](https://openreview.net/group?id=ICLR.cc) | Conference records, 2013–2026; DBLP cross-check |
-| ICML | [PMLR](https://proceedings.mlr.press/) | Conference records, 1988–2025; DBLP cross-check |
-| IJCV | [Springer IJCV](https://link.springer.com/journal/11263) | DBLP-indexed volumes 1–134, through 2026; DOI cross-check |
-| TPAMI | [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | DBLP-indexed volumes 1–48, through 2026; DOI cross-check |
+The original venue set was checked exhaustively and then expanded:
 
-Search terms included `LUT`, `LUTs`, `lookup table`, `look-up table`,
-`3D LUT`, and task-specific combinations for enhancement, restoration,
-super-resolution, fusion, style transfer, quantization, and inference. Title
-matches were verified against the official publication record. Scholarly APIs,
-DBLP, Crossref/DOI metadata, arXiv metadata, and GitHub were used only for
-cross-checking venue, year, and official code links.
+| Source group | Coverage checked |
+|:---|:---|
+| CVPR / ICCV | Complete available [CVF Open Access](https://openaccess.thecvf.com/menu) proceedings, plus historical DBLP conference backfiles |
+| ECCV | Full [ECVA paper index](https://www.ecva.net/papers.php), including confirmed 2026 papers |
+| NeurIPS | [Annual proceedings](https://proceedings.neurips.cc/), 1987–2025 |
+| ICLR / ICML | OpenReview and PMLR records, with DBLP cross-checks |
+| IJCV / TPAMI | Full DBLP-indexed journal backfiles through 2026, with DOI cross-checks |
+| TIP | Full DBLP-indexed journal backfile through 2026; all central LUT-title matches were reviewed |
+| Other publications | AAAI, ACM MM, TMM, TCSVT, IJCAI, ICASSP, HPCA, FCCM, ICME, ICFPT, CVMP, JMLR, Pattern Recognition, Neurocomputing, Computer Graphics Forum, and ACM Computing Surveys |
+| Preprints | arXiv title and metadata searches through 2026-07-24 |
 
-## Exclusions
+Search terms included `LUT`, `LUTs`, `lookup table`, `look-up table`, `3D LUT`,
+`4D LUT`, and task-specific combinations for enhancement, restoration,
+super-resolution, fusion, style transfer, video coding, quantization, and neural
+inference. Titles and publication status were cross-checked through official
+proceedings, DBLP, Crossref/DOI metadata, arXiv metadata, and official GitHub
+repositories where available.
 
-- arXiv-only work without a confirmed publication in one of the target venues;
-- workshop papers and papers published only at other conferences or journals;
-- papers where lookup tables appear only as an engineering detail;
-- duplicate preprint and journal records (the final target-venue publication is
-  retained; a substantially extended paper at another requested venue remains a
-  separate entry).
+## Inclusion and Exclusion Rules
 
-Examples such as NLUT, NILUT, 4D LUT, FastLLVE, and other relevant preprints are
-therefore not placed in the main list unless a target-venue publication can be
-verified.
+Included:
+
+- learned or optimized LUTs used as the paper's main representation or model;
+- LUT-based image/video processing, neural inference, quantization, or
+  acceleration methods;
+- classical TIP papers specifically centered on image-processing LUT design;
+- arXiv preprints without a verified formal version.
+
+Excluded:
+
+- papers where a lookup table is only a minor implementation detail;
+- ordinary FPGA logic-cell mapping papers that use “LUT” only to mean a hardware
+  primitive;
+- domain-specific control, circuit calibration, signal acquisition, database,
+  and cryptographic lookup-table work outside the vision/ML scope;
+- duplicate arXiv records when a formal publication is available.
