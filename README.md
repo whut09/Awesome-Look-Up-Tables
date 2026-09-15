@@ -31,6 +31,12 @@ preprint record.
 | 2026 | TCSVT | **UVE-LUT: Learnable Attenuation-Aware Lookup Table for Underwater Video Enhancement** | [[paper](https://doi.org/10.1109/TCSVT.2026.3672920)] | Video enhancement |
 | 2026 | TIP | **Toward Robust Alignment for Video Dehazing With Temporal Lookup Table** | [[paper](https://doi.org/10.1109/TIP.2026.3689423)] | Video dehazing |
 | 2026 | TMM | **Optimizing a 4D Lookup Table for Low-Light Video Enhancement via Wavelet Priori** | [[paper](https://doi.org/10.1109/TMM.2026.3651020)] | Video enhancement |
+| 2026 | ECCV | **Hybrid-LUT: Channel-Aware Hybrid Lookup Table and Filtering for Efficient Image Denoising** | [[paper](https://doi.org/10.1007/978-3-032-37556-8_21)] [[code](https://github.com/Ai-ZL/Hybrid-LUT)] | Image denoising |
+| 2026 | ICASSP | **Dylut-UIE: A Dynamic Lookup Table Paradigm for Efficient Underwater Image Enhancement** | [[paper](https://doi.org/10.1109/ICASSP55912.2026.11464974)] | Underwater image enhancement |
+| 2026 | ICASSP | **SFLUT: Efficient Style Fusion Lookup Table for Image Enhancement** | [[paper](https://doi.org/10.1109/ICASSP55912.2026.11463213)] | Image enhancement |
+| 2026 | ICASSP | **WGIP: Low-Light Image Enhancement with 4D LUT by Wavelet-Guided Intensity Prior** | [[paper](https://doi.org/10.1109/ICASSP55912.2026.11462439)] | Low-light enhancement |
+| 2026 | Neurocomputing | **LUTFormer: Lookup Table Transformer for Image Enhancement** | [[paper](https://doi.org/10.1016/j.neucom.2025.131863)] [[code](https://github.com/Jinwon-Ko/LUTFormer)] | Image enhancement |
+| 2026 | IEEE TC | **Mitigating Scalability Challenges in LUT-Based Neural Networks via Pruning Optimisations** | [[paper](https://doi.org/10.1109/TC.2026.3703350)] | Efficient neural networks |
 | 2026 | TPAMI | **Deep Lookup Network** | [[paper](https://doi.org/10.1109/TPAMI.2025.3605660)] | Efficient vision inference |
 | 2026 | arXiv | **Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks** | [[paper](https://arxiv.org/abs/2607.09399)] | Efficient neural networks |
 | 2026 | arXiv | **GLUT: 3D Gaussian Lookup Table for Continuous Color Transformation** | [[paper](https://arxiv.org/abs/2605.19889)] | Color transformation |
