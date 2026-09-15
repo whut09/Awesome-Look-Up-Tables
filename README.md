@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Update](https://img.shields.io/github/last-commit/whut09/Awesome-Look-Up-Tables)
-![Papers](https://img.shields.io/badge/papers-70-blue)
+![Papers](https://img.shields.io/badge/papers-85-blue)
 
 A curated list of deep-learning papers whose central method is a look-up table
 (LUT). The collection covers image enhancement, restoration, super-resolution,
@@ -39,6 +39,15 @@ preprint record.
 | 2026 | Neurocomputing | **LUTFormer: Lookup Table Transformer for Image Enhancement** | [[paper](https://doi.org/10.1016/j.neucom.2025.131863)] [[code](https://github.com/Jinwon-Ko/LUTFormer)] | Image enhancement |
 | 2026 | IEEE TC | **Mitigating Scalability Challenges in LUT-Based Neural Networks via Pruning Optimisations** | [[paper](https://doi.org/10.1109/TC.2026.3703350)] | Efficient neural networks |
 | 2026 | TPAMI | **Deep Lookup Network** | [[paper](https://doi.org/10.1109/TPAMI.2025.3605660)] | Efficient vision inference |
+| 2026 | arXiv | **DiffLUT-Net: Differentiable Training of FPGA LUT Networks with Learnable Connectivity** | [[paper](https://arxiv.org/abs/2609.09254)] | Efficient neural networks |
+| 2026 | arXiv | **FluxBin: Flexible LUT-based Ultra-low-bit LLM Inference by Algorithm-Kernel Synergy** | [[paper](https://arxiv.org/abs/2608.15602)] | Efficient LLM inference |
+| 2026 | arXiv | **Deep Analog: Open-Set Film Emulation with Reference-Conditioned 3D LUTs** | [[paper](https://arxiv.org/abs/2608.14702)] | Style transfer |
+| 2026 | arXiv | **Unified Lookup-Table Inference with Signed-Digit K/V Caches for Ternary LLMs** | [[paper](https://arxiv.org/abs/2608.03229)] | Efficient LLM inference |
+| 2026 | arXiv | **DY-LUT: Depth-Aware YCbCr Lookup Tables for Real-Time Underwater Image Enhancement** | [[paper](https://arxiv.org/abs/2607.22801)] | Underwater image enhancement |
+| 2026 | arXiv | **FPGN: Redefining Ultra-Fast Programmable Gate-based Neural Acceleration with Differentiable LUTs** | [[paper](https://arxiv.org/abs/2607.08427)] | ML acceleration |
+| 2026 | arXiv | **MxGLUT: A Reconfigurable LUT-Centric Broadcast Dataflow Accelerator for Mixed-Precision GEMM** | [[paper](https://arxiv.org/abs/2607.01607)] | ML acceleration |
+| 2026 | arXiv | **PALUTE: Processing-In-Memory Acceleration via Lookup Table for Edge LLM Inference** | [[paper](https://arxiv.org/abs/2606.08891)] | Efficient LLM inference |
+| 2026 | arXiv | **HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference** | [[paper](https://arxiv.org/abs/2604.22293)] | Efficient neural networks |
 | 2026 | arXiv | **Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks** | [[paper](https://arxiv.org/abs/2607.09399)] | Efficient neural networks |
 | 2026 | arXiv | **GLUT: 3D Gaussian Lookup Table for Continuous Color Transformation** | [[paper](https://arxiv.org/abs/2605.19889)] | Color transformation |
 | 2026 | arXiv | **Illuminant-Adaptive 3D Lookup Tables for Camera Color Correction** | [[paper](https://arxiv.org/abs/2607.11681)] | Color correction |
