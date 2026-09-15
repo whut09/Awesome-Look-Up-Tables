@@ -71,7 +71,6 @@ preprint record.
 | 2025 | TMM | **WV-LUT: Wide Vision Lookup Tables for Real-Time Low-Light Image Enhancement** | [[paper](https://doi.org/10.1109/TMM.2025.3535342)] | Low-light enhancement |
 | 2025 | arXiv | **A Survey on LUT-Based Deep Neural Networks Implemented in FPGAs** | [[paper](https://arxiv.org/abs/2506.07367)] | Survey |
 | 2025 | arXiv | **Anisotropic Pooling for LUT-Realizable CNN Image Restoration** | [[paper](https://arxiv.org/abs/2510.21437)] | Image restoration |
-| 2025 | arXiv | **DCA-LUT: Deep Chromatic Alignment with 5D LUT for Purple Fringing Removal** | [[paper](https://arxiv.org/abs/2511.12066)] | Image restoration |
 | 2025 | arXiv | **FlowLUT: Efficient Image Enhancement via Differentiable LUTs and Iterative Flow Matching** | [[paper](https://arxiv.org/abs/2509.23608)] | Image enhancement |
 | 2025 | arXiv | **In-Loop Filtering Using Learned Look-Up Tables for Video Coding** | [[paper](https://arxiv.org/abs/2509.09494)] | Video coding |
 | 2025 | arXiv | **Receptive Field Expanded Look-Up Tables for Vision Inference: Advancing from Low-Level to High-Level Tasks** | [[paper](https://arxiv.org/abs/2510.10522)] | Efficient vision inference |
