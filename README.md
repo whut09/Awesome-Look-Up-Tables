@@ -24,9 +24,10 @@ preprint record.
 | Year | Pub | Title | Links | Topic |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | AAAI | **CAST-LUT: Tokenizer-Guided HSV Look-Up Tables for Purple Flare Removal** | [[paper](https://doi.org/10.1609/aaai.v40i12.37966)] | Image restoration |
+| 2026 | AAAI | **DCA-LUT: Deep Chromatic Alignment with 5D LUT for Purple Fringing Removal** | [[paper](https://doi.org/10.1609/aaai.v40i9.37696)] | Image restoration |
 | 2026 | CVPR | **Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Memory_Matters_Boosting_Training-Free_Zero-Shot_Temporal_Action_Localization_with_a_CVPR_2026_paper.html)] | Temporal action localization |
 | 2026 | CVPR | **ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_ShiftLUT_Spatial_Shift_Enhanced_Look-Up_Tables_for_Efficient_Image_Restoration_CVPR_2026_paper.html)] [[code](https://github.com/Sailor-t/ShiftLUT)] | Image restoration |
-| 2026 | ECCV | **UHD-MFF: Shattering Barriers in Multi-Focus Ultra-High-Definition Image Fusion via Learnable Lookup Tables** | [[paper](https://arxiv.org/abs/2606.31242)] | Image fusion |
+| 2026 | ECCV | **UHD-MFF: Shattering Barriers in Multi-Focus Ultra-High-Definition Image Fusion via Learnable Lookup Tables** | [[paper](https://doi.org/10.1007/978-3-032-37362-5_16)] [[code](https://github.com/zyb5/UHD-MFF)] | Image fusion |
 | 2026 | Pattern Recognition | **Self-Distilled Learning of Adaptive Interval 3D Lookup Tables on Real-Time Image Enhancement** | [[paper](https://doi.org/10.1016/j.patcog.2025.112599)] | Image enhancement |
 | 2026 | TCSVT | **UVE-LUT: Learnable Attenuation-Aware Lookup Table for Underwater Video Enhancement** | [[paper](https://doi.org/10.1109/TCSVT.2026.3672920)] | Video enhancement |
 | 2026 | TIP | **Toward Robust Alignment for Video Dehazing With Temporal Lookup Table** | [[paper](https://doi.org/10.1109/TIP.2026.3689423)] | Video dehazing |
@@ -41,7 +42,7 @@ preprint record.
 | 2026 | arXiv | **Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks** | [[paper](https://arxiv.org/abs/2607.09399)] | Efficient neural networks |
 | 2026 | arXiv | **GLUT: 3D Gaussian Lookup Table for Continuous Color Transformation** | [[paper](https://arxiv.org/abs/2605.19889)] | Color transformation |
 | 2026 | arXiv | **Illuminant-Adaptive 3D Lookup Tables for Camera Color Correction** | [[paper](https://arxiv.org/abs/2607.11681)] | Color correction |
-| 2026 | arXiv | **IQ-LUT: Interpolated and Quantized LUT for Efficient Image Super-Resolution** | [[paper](https://arxiv.org/abs/2604.07000)] | Image super-resolution |
+| 2026 | ICASSP | **IQ-LUT: Interpolated and Quantized LUT for Efficient Image Super-Resolution** | [[paper](https://doi.org/10.1109/ICASSP55912.2026.11461965)] | Image super-resolution |
 | 2026 | arXiv | **LoR-LUT: Learning Compact 3D Lookup Tables via Low-Rank Residuals** | [[paper](https://arxiv.org/abs/2602.22607)] | Image enhancement |
 | 2026 | arXiv | **Multimodal 3D LUT Generation via StatLUT with Statistical Features for Photorealistic Style Transfer** | [[paper](https://arxiv.org/abs/2607.08227)] | Style transfer |
 | 2025 | AAAI | **DPLUT: Unsupervised Low-Light Image Enhancement with Lookup Tables and Diffusion Priors** | [[paper](https://doi.org/10.1609/aaai.v39i5.32565)] | Low-light enhancement |
