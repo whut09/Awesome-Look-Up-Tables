@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Update](https://img.shields.io/github/last-commit/whut09/Awesome-Look-Up-Tables)
-![Papers](https://img.shields.io/badge/papers-85-blue)
+![Papers](https://img.shields.io/badge/papers-89-blue)
 
 A curated list of deep-learning papers whose central method is a look-up table
 (LUT). The collection covers image enhancement, restoration, super-resolution,
@@ -39,6 +39,10 @@ preprint record.
 | 2026 | Neurocomputing | **LUTFormer: Lookup Table Transformer for Image Enhancement** | [[paper](https://doi.org/10.1016/j.neucom.2025.131863)] [[code](https://github.com/Jinwon-Ko/LUTFormer)] | Image enhancement |
 | 2026 | IEEE TC | **Mitigating Scalability Challenges in LUT-Based Neural Networks via Pruning Optimisations** | [[paper](https://doi.org/10.1109/TC.2026.3703350)] | Efficient neural networks |
 | 2026 | TPAMI | **Deep Lookup Network** | [[paper](https://doi.org/10.1109/TPAMI.2025.3605660)] | Efficient vision inference |
+| 2026 | ISPASS | **Hardware Generation and Exploration of Lookup Table-Based Accelerators for 1.58-bit LLM Inference** | [[paper](https://doi.org/10.1109/ISPASS69572.2026.00048)] | Efficient LLM inference |
+| 2026 | arXiv | **Lossless Compression of Lookup Tables for Hardware Applications** | [[paper](https://arxiv.org/abs/2609.36634)] | LUT representation |
+| 2026 | arXiv | **PrefLUT: Reusable and Refinable Personalized Color Editing from Pairwise Preferences** | [[paper](https://arxiv.org/abs/2609.34133)] | Image enhancement |
+| 2026 | arXiv | **LoopLUT: 3D Lookup Tables with Progressive Region Refinement for Real-Time 4K Image Enhancement** | [[paper](https://arxiv.org/abs/2609.33593)] | Image enhancement |
 | 2026 | arXiv | **DiffLUT-Net: Differentiable Training of FPGA LUT Networks with Learnable Connectivity** | [[paper](https://arxiv.org/abs/2609.09254)] | Efficient neural networks |
 | 2026 | arXiv | **FluxBin: Flexible LUT-based Ultra-low-bit LLM Inference by Algorithm-Kernel Synergy** | [[paper](https://arxiv.org/abs/2608.15602)] | Efficient LLM inference |
 | 2026 | arXiv | **Deep Analog: Open-Set Film Emulation with Reference-Conditioned 3D LUTs** | [[paper](https://arxiv.org/abs/2608.14702)] | Style transfer |
