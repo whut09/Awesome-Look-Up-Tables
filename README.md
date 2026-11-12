@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Update](https://img.shields.io/github/last-commit/whut09/Awesome-Look-Up-Tables)
-![Papers](https://img.shields.io/badge/papers-89-blue)
+![Papers](https://img.shields.io/badge/papers-92-blue)
 
 A curated list of deep-learning papers whose central method is a look-up table
 (LUT). The collection covers image enhancement, restoration, super-resolution,
@@ -40,7 +40,10 @@ preprint record.
 | 2026 | IEEE TC | **Mitigating Scalability Challenges in LUT-Based Neural Networks via Pruning Optimisations** | [[paper](https://doi.org/10.1109/TC.2026.3703350)] | Efficient neural networks |
 | 2026 | TPAMI | **Deep Lookup Network** | [[paper](https://doi.org/10.1109/TPAMI.2025.3605660)] | Efficient vision inference |
 | 2026 | ISPASS | **Hardware Generation and Exploration of Lookup Table-Based Accelerators for 1.58-bit LLM Inference** | [[paper](https://doi.org/10.1109/ISPASS69572.2026.00048)] | Efficient LLM inference |
+| 2026 | arXiv | **ConvLUT: Rethinking Convolutional Architectures for Ultra-Low-Latency LUT-Based Inference** | [[paper](https://arxiv.org/abs/2611.11507)] | Efficient neural networks |
+| 2026 | arXiv | **Implementation Note 2: Approximating a Smooth Three-Dimensional Function on a Coarse Lattice** | [[paper](https://arxiv.org/abs/2610.00203)] | LUT representation |
 | 2026 | arXiv | **Lossless Compression of Lookup Tables for Hardware Applications** | [[paper](https://arxiv.org/abs/2609.36634)] | LUT representation |
+| 2026 | arXiv | **ScaleLUT: A Fully-Parallel Configurable LUT-Based Accelerator for Real-Time Multi-Scale Super-Resolution** | [[paper](https://arxiv.org/abs/2609.16508)] | Image super-resolution |
 | 2026 | arXiv | **PrefLUT: Reusable and Refinable Personalized Color Editing from Pairwise Preferences** | [[paper](https://arxiv.org/abs/2609.34133)] | Image enhancement |
 | 2026 | arXiv | **LoopLUT: 3D Lookup Tables with Progressive Region Refinement for Real-Time 4K Image Enhancement** | [[paper](https://arxiv.org/abs/2609.33593)] | Image enhancement |
 | 2026 | arXiv | **DiffLUT-Net: Differentiable Training of FPGA LUT Networks with Learnable Connectivity** | [[paper](https://arxiv.org/abs/2609.09254)] | Efficient neural networks |
@@ -79,7 +82,7 @@ preprint record.
 | 2025 | arXiv | **In-Loop Filtering Using Learned Look-Up Tables for Video Coding** | [[paper](https://arxiv.org/abs/2509.09494)] | Video coding |
 | 2025 | arXiv | **Receptive Field Expanded Look-Up Tables for Vision Inference: Advancing from Low-Level to High-Level Tasks** | [[paper](https://arxiv.org/abs/2510.10522)] | Efficient vision inference |
 | 2024 | AAAI | **Efficient Look-Up Table from Expanded Convolutional Network for Accelerating Image Super-Resolution** | [[paper](https://doi.org/10.1609/aaai.v38i7.28495)] | Image super-resolution |
-| 2024 | AAAI | **NILUT: Conditional Neural Implicit 3D Lookup Tables for Image Enhancement** | [[paper](https://doi.org/10.1609/aaai.v38i2.27901)] | Image enhancement |
+| 2024 | AAAI | **NILUT: Conditional Neural Implicit 3D Lookup Tables for Image Enhancement** | [[paper](https://doi.org/10.1609/aaai.v38i2.27901)] [[code](https://github.com/mv-lab/nilut)] | Image enhancement |
 | 2024 | ACM MM | **Expanded Convolutional Neural Network Based Look-Up Tables for High Efficient Single-Image Super-Resolution** | [[paper](https://doi.org/10.1145/3664647.3681255)] | Image super-resolution |
 | 2024 | ACM MM | **Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement** | [[paper](https://doi.org/10.1145/3664647.3680743)] | Image enhancement |
 | 2024 | CVPR | **Look-Up Table Compression for Efficient Image Restoration** | [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Look-Up_Table_Compression_for_Efficient_Image_Restoration_CVPR_2024_paper.html)] [[code](https://github.com/leenas233/DFC)] | Image restoration |
@@ -90,7 +93,7 @@ preprint record.
 | 2024 | ICLR | **LUT-GEMM: Quantized Matrix Multiplication Based on LUTs for Efficient Inference in Large-Scale Generative Language Models** | [[paper](https://openreview.net/forum?id=gLARhFLE0F)] [[code](https://github.com/naver-aics/lut-gemm)] | Efficient LLM inference |
 | 2024 | IJCAI | **Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution** | [[paper](https://www.ijcai.org/proceedings/2024/95)] | Image super-resolution |
 | 2024 | NeurIPS | **TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9b01c4a7d3fc49875dad3c13848bcd9e-Abstract-Conference.html)] [[code](https://github.com/Jonas-KD/TinyLUT)] | Image restoration |
-| 2024 | TIP | **Online Streaming Video Super-Resolution with Convolutional Look-Up Table** | [[paper](https://doi.org/10.1109/TIP.2024.3374104)] | Video super-resolution |
+| 2024 | TIP | **Online Streaming Video Super-Resolution with Convolutional Look-Up Table** | [[paper](https://doi.org/10.1109/TIP.2024.3374104)] [[code](https://github.com/quzefan/ConvLUT)] | Video super-resolution |
 | 2024 | TPAMI | **Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables** | [[paper](https://doi.org/10.1109/TPAMI.2024.3401048)] [[code](https://github.com/ddlee-cn/MuLUT)] | Image restoration |
 | 2024 | arXiv | **Pixel Embedding: Fully Quantized Convolutional Neural Network with Differentiable Lookup Table** | [[paper](https://arxiv.org/abs/2407.16174)] | Model quantization |
 | 2024 | arXiv | **WB LUTs: Contrastive Learning for White Balancing Lookup Tables** | [[paper](https://arxiv.org/abs/2404.10133)] | White balance |
